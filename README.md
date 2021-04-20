@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rajesh Dookkoo
+- 👀 I’m interested in all things .Net and all aspects of development...
+- 🌱 I’m currently learning maching learning and AI, hoping to improve my skills on the development side of these areas.
+- 📫 You can reach me @ Dookkoo.Rajesh@Gmail.com.
